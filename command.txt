@@ -1,0 +1,3 @@
+ros2 param get <node_name> <parameter_name>
+ros2 bag record <topic_name>
+
